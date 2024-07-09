@@ -15,7 +15,7 @@ const Appointment = async ({ params: { userId } }: SearchParamProps) => {
             height={1000}
             width={1000}
             alt="logo"
-            className="mb-12 h-10 w-fit"
+            className="mb-6 h-10 w-fit"
           />
 
           <AppointmentForm
@@ -24,7 +24,7 @@ const Appointment = async ({ params: { userId } }: SearchParamProps) => {
             type="create"
           />
 
-          <p className="copyright mt-10 py-12">© 2024 HealthHuddle</p>
+          <p className="copyright mt-6 py-3">© 2024 HealthHuddle</p>
         </div>
       </section>
 
