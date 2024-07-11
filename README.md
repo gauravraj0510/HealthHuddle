@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://health-huddle-raj510.vercel.app/" target="_blank">
-      <img src="https://raw.githubusercontent.com/gauravraj0510/HealthHuddle/main/public/onboarding.png" alt="Project Banner">
+      <img src="./public/onboarding.png" alt="Project Banner">
     </a>
   <br />
 
@@ -42,6 +42,4 @@ Effortlessly manage patient appointments with our cutting-edge app built using N
 👉 **File Upload Using Appwrite Storage**: Users can upload and store files securely within the app using Appwrite storage services.
 
 👉 **Manage and Track Application Performance Using Sentry**: The application uses Sentry to monitor and track its performance and detect any errors.
-
-and many more, including code architecture and reusability
 
